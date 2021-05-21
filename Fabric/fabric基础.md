@@ -7,3 +7,7 @@
 
 java链码的实例教程参考：
 参考地址[github教程](https://github.com/hooj0/fabric-chaincode-java)
+
+参考地址[使用Java开发Fabric智能合约Chaincode](https://blog.csdn.net/DamonREN/article/details/105554491)
+
+参考地址[fabric单机部署](https://www.cnblogs.com/llongst/p/9571321.html)
