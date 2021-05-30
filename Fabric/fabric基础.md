@@ -11,3 +11,7 @@ java链码的实例教程参考：
 参考地址[使用Java开发Fabric智能合约Chaincode](https://blog.csdn.net/DamonREN/article/details/105554491)
 
 参考地址[fabric单机部署](https://www.cnblogs.com/llongst/p/9571321.html)
+
+# 三、数据防篡改
+
+参考地址[当人们可以直接更改couchdb数据时，Hyperledger Fabric中的数据如何安全](https://stackoom.com/question/3NWC8/%E5%BD%93%E4%BA%BA%E4%BB%AC%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E6%9B%B4%E6%94%B9couchdb%E6%95%B0%E6%8D%AE%E6%97%B6-Hyperledger-Fabric%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E5%A6%82%E4%BD%95%E5%AE%89%E5%85%A8)
