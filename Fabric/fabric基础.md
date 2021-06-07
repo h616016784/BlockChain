@@ -22,6 +22,9 @@ java链码的实例教程参考：
 参考地址[fabric单机部署](https://www.cnblogs.com/llongst/p/9571321.html)
 
 # 四、数据防篡改
+
+关于数据备份与恢复：peer在加入channel的时候，会自动同步其他peer点上的数据，所以fabric不用备份数据，如果为了保险备份，则可以进行手动备份。
+
 数据的备份与恢复参考地址[Hyperledger Fabric的容灾备份及恢复方法简介](https://www.jianshu.com/p/455b8f8dd2e7);
 [Hyperledger Fabric: Ledger Backup and Restore](http://www.bchainledger.com/2019/02/hyperledger-fabric-ledger-backup-and.html)
 
