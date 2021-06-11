@@ -34,3 +34,9 @@ java链码的实例教程参考：
 
 # 五、linux的curl操作couchdb
 参考地址[curl操作CouchDB](https://www.cnblogs.com/MikeZhang/p/curlOptCouchDB20141007.html)
+
+# 六、fabrci常用功能集合
+## 1、Fabric SDK监听节点链码事件
+主要参考的地址为[SDK监听节点链码事件](https://blog.csdn.net/fangdengfu123/article/details/80454581)
+
+相关的知识，参考地址为[Hyperledger Fabric Java SDK上的Chaincode Event监听器教程](https://blog.csdn.net/shixin_0125/article/details/105548831)
