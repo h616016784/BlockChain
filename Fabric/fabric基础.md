@@ -40,3 +40,5 @@ java链码的实例教程参考：
 主要参考的地址为[SDK监听节点链码事件](https://blog.csdn.net/fangdengfu123/article/details/80454581)
 
 相关的知识，参考地址为[Hyperledger Fabric Java SDK上的Chaincode Event监听器教程](https://blog.csdn.net/shixin_0125/article/details/105548831)
+# 七、新增peer节点、恢复peer节点（崩溃、断电等原因）
+思路参考地址[Hyperledger Fabric网络中增加组织/增加peer/恢复peer节点的思路](https://blog.csdn.net/qq_33657251/article/details/114290182)
