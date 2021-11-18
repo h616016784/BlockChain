@@ -42,3 +42,11 @@ java链码的实例教程参考：
 相关的知识，参考地址为[Hyperledger Fabric Java SDK上的Chaincode Event监听器教程](https://blog.csdn.net/shixin_0125/article/details/105548831)
 # 七、新增peer节点、恢复peer节点（崩溃、断电等原因）
 思路参考地址[Hyperledger Fabric网络中增加组织/增加peer/恢复peer节点的思路](https://blog.csdn.net/qq_33657251/article/details/114290182)
+
+# 八、监测Hyperledger Fabric
+有很多种方法：
+## 1、使用prometheus
+具体参考 ：[使用prometheus监测Hyperledger Fabric](http://www.lifegoeson.cn/2021/06/01/%E4%BD%BF%E7%94%A8prometheus%E7%9B%91%E6%B5%8BHyperledger%20Fabric/)
+
+
+
